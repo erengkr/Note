@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Note Index Page";
+}
+
+<h1>@ViewData["Title"]</h1>
+<button onclick=""> New Create </button>
+@foreach (var i in Model)
+{
+    <p>@i.Id |||| @i.Name ||||  @i.NoteContent </p>
+    <button onclick=""> Güncelle </button>
+    <button onclick=""> Sil </button>
+
+}
