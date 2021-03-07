@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Note.Core", "Note.Core\Note
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{88832B56-63A7-4EE3-BBD6-B321835A1CE7}"
 	ProjectSection(SolutionItems) = preProject
-		NoteRespository.md = NoteRespository.md
+		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
 Global
